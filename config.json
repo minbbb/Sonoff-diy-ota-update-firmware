@@ -1,0 +1,7 @@
+{
+    "deviceIp": "192.168.0.3",
+    "devicePort": 8081,
+    "computerIp": "192.168.0.2",
+    "filename": "firmware.bin",
+    "serverPort": 3000
+}
